@@ -1,0 +1,14 @@
+{
+	"name": "sheetjs-electron",
+	"author": "sheetjs",
+	"version": "0.0.0",
+	"main": "main.js",
+	"dependencies": {
+		"electron": "^9.0.5",
+		"resx": "^2.0.3",
+		"xlsx": "*"
+	},
+	"scripts": {
+		"start": "electron ."
+	}
+}
